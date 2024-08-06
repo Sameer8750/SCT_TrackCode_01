@@ -1,3 +1,3 @@
 # SCT_TrackCode_TaskNumber1
 
-![Picture20](https://github.com/user-attachments/assets/c3662f1d-5291-4d20-ae07-68e130407182)
+![Picture30](https://github.com/user-attachments/assets/fe6cf327-28c2-41b8-b4af-f52c7637b969)
