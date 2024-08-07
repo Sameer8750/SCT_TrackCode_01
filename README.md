@@ -44,3 +44,8 @@ The World Population dataset includes detailed information about countries and t
 
 - Python Analysis: Delve into the Python code to discover the transformations and manipulations applied to the World Population dataset.
 - Comprehensive Dataset: Access the complete dataset for your exploration and analysis.
+
+## 📊 Dashboard Preview
+
+![newplot](https://github.com/user-attachments/assets/e6ff5e6d-7dde-47e5-8dcd-37125a0775e8)
+
