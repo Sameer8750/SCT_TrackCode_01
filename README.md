@@ -1,4 +1,4 @@
-# SCT_TrackCode_TaskNumber1
+# SCT_TrackCode_01
 
 ## POPULATION DATA ANALYSIS
   
@@ -69,7 +69,7 @@ The World Population dataset includes detailed information about countries and t
 
 **1. Clone the repository :**
 ```bash
-    https://github.com/Sameer8750/SCT_TrackCode_Task1.git
+    https://github.com/Sameer8750/SCT_TrackCode_01.git
 ```
 
 **2. Analyze with Python:**
