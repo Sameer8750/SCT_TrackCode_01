@@ -4,6 +4,7 @@
   
 ![Picture30](https://github.com/user-attachments/assets/fe6cf327-28c2-41b8-b4af-f52c7637b969)
 
+
 ## Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population. 🌍📈
 
 ## 📊 Dataset Overview:
